@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Lm70660")(type "KiCad")(uri "C:/Users/lakel/power_distribution_board_pcb/footprints.pretty")(options "")(descr ""))
+)

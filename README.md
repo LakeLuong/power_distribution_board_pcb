@@ -3,5 +3,6 @@ Custom KiCad power distribution PCB that takes in +48V and regulates it down to 
 
 <img width="1176" height="593" alt="image" src="https://github.com/user-attachments/assets/77dabe71-1442-477a-8b46-69e010ff298b" />
 
-<img width="1078" height="482" alt="image" src="https://github.com/user-attachments/assets/8372622b-4ef4-4207-92c7-cd4e9a84790b" />
+<img width="1026" height="457" alt="image" src="https://github.com/user-attachments/assets/99375eac-02f7-4890-ac9f-a425fd3a10e0" />
+
 

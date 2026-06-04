@@ -6,7 +6,9 @@ Custom KiCad power distribution PCB that takes in +48V and regulates it down to 
 <img width="1026" height="457" alt="image" src="https://github.com/user-attachments/assets/99375eac-02f7-4890-ac9f-a425fd3a10e0" />
 
 
-BOM: Tps62913	Low current buck converter converting 5V to 3.3V	2	$5.52		
+BOM: 
+
+Tps62913	Low current buck converter converting 5V to 3.3V	2	$5.52		
 
 Lm70660	High Current Buck Converter that takes 48V and brings it down to 12V and 5V	2	$13.60		
 
@@ -58,5 +60,4 @@ Ferrite Bead	Blocks high frequency noise	5	$1.55
 
 0805 0.047 uF Ceramic Capacitor	Boostrap capacitor for buck converter	10	$1.47	
 
-0805 2200pF SMD Ceramic Capacitor	Decoupling and filtering for 5v rail	10	$0.39	Link	Digikey	
-Edit
+0805 2200pF SMD Ceramic Capacitor	Decoupling and filtering for 5v rail	10	$0.39	

@@ -72,7 +72,7 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|155884999|94714998|1d6bb6f8-8fb0-46d2-a107-3387fca3a213|00000000-0000-0000-0000-000000000000",
+          "silk_overlap|152223333|94552438|8af8538a-2795-436f-b1b5-c62ce18e6cd6|af6d8abe-7977-40fe-acdc-fe2d0ef1320f",
           ""
         ]
       ],
@@ -608,12 +608,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

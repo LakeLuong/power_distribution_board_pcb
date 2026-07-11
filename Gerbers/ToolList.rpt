@@ -1,0 +1,25 @@
+Drill report for power_distribution_board_pcb_v2.kicad_pcb
+Created on 2026-06-12T10:33:31
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'power_distribution_board_pcb_v2-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (52 holes))
+    T2  0.300mm  0.0118"  (24 holes))
+    T3  1.300mm  0.0512"  (16 holes))
+
+    Total plated holes count 92
+
+
+Drill file 'power_distribution_board_pcb_v2-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (4 holes))
+
+    Total unplated holes count 4
